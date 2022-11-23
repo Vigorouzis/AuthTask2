@@ -1,0 +1,17 @@
+C:\Users\Nikita\RiderProjects\AuthTask2\AuthTask2\bin\Debug\net6.0\AuthTask2.exe
+C:\Users\Nikita\RiderProjects\AuthTask2\AuthTask2\bin\Debug\net6.0\AuthTask2.deps.json
+C:\Users\Nikita\RiderProjects\AuthTask2\AuthTask2\bin\Debug\net6.0\AuthTask2.runtimeconfig.json
+C:\Users\Nikita\RiderProjects\AuthTask2\AuthTask2\bin\Debug\net6.0\AuthTask2.dll
+C:\Users\Nikita\RiderProjects\AuthTask2\AuthTask2\bin\Debug\net6.0\AuthTask2.pdb
+C:\Users\Nikita\RiderProjects\AuthTask2\AuthTask2\obj\Debug\net6.0\AuthTask2.csproj.AssemblyReference.cache
+C:\Users\Nikita\RiderProjects\AuthTask2\AuthTask2\obj\Debug\net6.0\AuthTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\RiderProjects\AuthTask2\AuthTask2\obj\Debug\net6.0\AuthTask2.AssemblyInfoInputs.cache
+C:\Users\Nikita\RiderProjects\AuthTask2\AuthTask2\obj\Debug\net6.0\AuthTask2.AssemblyInfo.cs
+C:\Users\Nikita\RiderProjects\AuthTask2\AuthTask2\obj\Debug\net6.0\AuthTask2.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\RiderProjects\AuthTask2\AuthTask2\obj\Debug\net6.0\AuthTask2.dll
+C:\Users\Nikita\RiderProjects\AuthTask2\AuthTask2\obj\Debug\net6.0\refint\AuthTask2.dll
+C:\Users\Nikita\RiderProjects\AuthTask2\AuthTask2\obj\Debug\net6.0\AuthTask2.pdb
+C:\Users\Nikita\RiderProjects\AuthTask2\AuthTask2\obj\Debug\net6.0\AuthTask2.genruntimeconfig.cache
+C:\Users\Nikita\RiderProjects\AuthTask2\AuthTask2\obj\Debug\net6.0\ref\AuthTask2.dll
+C:\Users\Nikita\RiderProjects\AuthTask2\AuthTask2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nikita\RiderProjects\AuthTask2\AuthTask2\obj\Debug\net6.0\AuthTask2.csproj.CopyComplete
